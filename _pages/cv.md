@@ -17,7 +17,7 @@ Education
   * Advisor: Dr. Wesley K. G. Assunção
   * Research Interests: LLMs, Software Engineering, HCI, AI4AI, AI4SE, Agents
 * M.S. in Computer Science, University of Florida, Aug. 2020 - Dec. 2022
-* B.E. in Software Engineering, Xidian University, Aug. 2015 - Dec. 2019
+* B.E. in Software Engineering, Xidian University, Aug. 2015 - Jun. 2019
 
 Work experience
 ======
