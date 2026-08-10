@@ -24,8 +24,8 @@ Work experience
 * May 2026 - Aug. 2026: Core-ML Ph.D. SWE Intern
   * Google Inc., Mountain View, CA
   * Host: Ann Yan
-  * Designed and built a fully automated local agent framework that deploys and migrates models on remote Google Cloud TPU VMs — a multi-tiered MCP routing loop drives local LLM reasoning to handle environment setup, GPU-to-TPU code migration (PyTorch/XLA), and self-healing recovery, with no manual intervention required.
-  * Engineered a fully automated runtime self-healing pipeline: real-time telemetry tracks memory usage, crash signatures, and CPU fallback events across distributed workloads, automatically triggering an LLM-driven debugging and code-correction loop to recover failed runs without manual intervention.
+  * Architected an Autonomous Agent Platform: Built an end-to-end LLM agent in Python to automate migrating PyTorch models onto Google Cloud TPUs; implemented a 20+ tool MCP server covering AST analysis, automated dependency resolution, and vector RAG.
+  * Engineered Closed-Loop Diagnostics & Verification: Developed a two-stage self-healing pipeline using dry-run profiling to detect XLA compiler CPU fallbacks before full-scale training; delivered a production-grade platform across 35+ modules.
 
 * Jan. 2023 - Aug. 2023: Software Engineer, Full Time
   * PAX Technology Inc., Jacksonville, FL
