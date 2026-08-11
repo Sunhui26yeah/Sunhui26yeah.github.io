@@ -15,4 +15,4 @@ Research
 ======
 My current work focuses on evaluating and understanding the failure modes of large language models applied to software engineering tasks — including cross-language code functional equivalence, automated test code review, and agentic systems for ML infrastructure. I also have prior work on hardware-software co-design for differential privacy.
 
-Feel free to reach out at [hsun26@ncsu.edu](mailto:hsun26@ncsu.edu), or find me on [LinkedIn](https://www.linkedin.com/in/huisun2022/) and [{% include google-colored.html %} Scholar](https://scholar.google.com/citations?user=Bto0WEoAAAAJ&hl=en&oi=ao). You can also find my full [CV here](/cv/).
+Feel free to reach out at [hsun26@ncsu.edu](mailto:hsun26@ncsu.edu), or find me on [LinkedIn](https://www.linkedin.com/in/huisun2022/) and [Google Scholar](https://scholar.google.com/citations?user=Bto0WEoAAAAJ&hl=en&oi=ao). You can also find my full [CV here](/cv/).
