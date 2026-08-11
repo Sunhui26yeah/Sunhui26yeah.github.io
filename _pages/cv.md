@@ -22,9 +22,9 @@ Education
 Work experience
 ======
 * May 2026 - Aug. 2026: Core-ML Ph.D. SWE Intern
-  * Google Inc., Mountain View, CA
+  * {% include google-colored.html %} Inc., Mountain View, CA
   * Host: Ann Yan
-  * Architected an Autonomous Agent Platform: Built an end-to-end LLM agent in Python to automate migrating PyTorch models onto Google Cloud TPUs; implemented a 20+ tool MCP server covering AST analysis, automated dependency resolution, and vector RAG.
+  * Architected an Autonomous Agent Platform: Built an end-to-end LLM agent in Python to automate migrating PyTorch models onto {% include google-colored.html %} Cloud TPUs; implemented a 20+ tool MCP server covering AST analysis, automated dependency resolution, and vector RAG.
   * Engineered Closed-Loop Diagnostics & Verification: Developed a two-stage self-healing pipeline using dry-run profiling to detect XLA compiler CPU fallbacks before full-scale training; delivered a production-grade platform across 35+ modules.
 
 * Jan. 2023 - Aug. 2023: Software Engineer, Full Time
@@ -43,7 +43,7 @@ Work experience
 
 Selected projects
 ======
-* **Evaluating Language Models on Cross-Language Code Functional Equivalence** (Aug. 2025 – May 2026), Google Cloud, FUNCAP, CNPq funded project
+* **Evaluating Language Models on Cross-Language Code Functional Equivalence** (Aug. 2025 – May 2026), {% include google-colored.html %} Cloud, FUNCAP, CNPq funded project
   * Built PolyHuman, the first dataset for evaluating cross-language code functional equivalence on human-written code (C++/Java/Python, 5,035 problems from CodeContests, 15 sub-tasks).
   * Systematic evaluation of 9 open- and closed-source models shows accuracy drops from 0.998 on synthetic code to 0.84 on human-written code.
   * Manual analysis of 81 misjudged cases produced a three-tier failure hierarchy: Knowledge Failures (21%), Abstraction-Level Reasoning Failures (53%), and dataset-labeling issues (19%).
