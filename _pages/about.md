@@ -11,11 +11,6 @@ I am a Ph.D. student in Computer Science at [North Carolina State University](ht
 
 Before NC State, I earned my M.S. in Computer Science at the [University of Florida](https://www.ufl.edu/) and my B.E. in Software Engineering at [Xidian University](https://en.xidian.edu.cn/). I've also worked as a software engineer at PAX Technology and IBM, and most recently as a Core-ML Ph.D. SWE Intern at Google.
 
-<figure style="max-width: 500px; margin: 1.5em auto;">
-  <img src="/images/jeff-dean.jpg" alt="With Jeff Dean on his last day at Google">
-  <figcaption style="text-align: center; font-size: 0.85em; color: #666; margin-top: 0.5em;">With Jeff Dean, during my internship at Google</figcaption>
-</figure>
-
 Research
 ======
 My current work focuses on evaluating and understanding the failure modes of large language models applied to software engineering tasks — including cross-language code functional equivalence, automated test code review, and agentic systems for ML infrastructure. I also have prior work on hardware-software co-design for differential privacy.
