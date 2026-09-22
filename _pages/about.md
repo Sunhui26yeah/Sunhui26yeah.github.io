@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fourth year Ph.D. student in Computer Science at [North Carolina State University](https://www.ncsu.edu/), advised by [Dr. Wesley K. G. Assunção](https://wesleyklewerton.github.io). My research sits at the intersection of Large Language Models, Software Engineering, HCI, and AI Agents — I'm broadly interested in how we build and evaluate systems where AI and software engineering practice meet (AI4SE) and where AI helps improve AI itself (AI4AI).
 
-Before NC State, I earned my M.S. in Computer Science at the [University of Florida](https://www.ufl.edu/) and my B.E. in Software Engineering at [Xidian University](https://en.xidian.edu.cn/). I've also worked as a software engineer at PAX Technology and IBM, and most recently as a Core-ML Ph.D. SWE Intern at {% include google-colored.html %}.
+Before NC State, I earned my M.S. in Computer Science at the [University of Florida](https://www.ufl.edu/) and my B.E. in Software Engineering at [Xidian University](https://en.xidian.edu.cn/). I've also worked as a software engineer at PAX Technology and IBM, and most recently as a Core-ML Ph.D. SWE Intern at {% include google-colored.html %}. I will be returning to {% include google-colored.html %} full-time as a Software Engineer on the Core ML Frameworks & Compiler team (XLA / JAX / PyTorch-XLA) after I graduate in 2027.
 
 Research
 ======
