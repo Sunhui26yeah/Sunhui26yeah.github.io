@@ -1,11 +1,11 @@
 ---
-title: "Automated Detection and Refactoring of GitHub Actions Workflow Smells Using Agentic LLMs"
+title: "Beyond Smell Detection: Construct-Aware Evaluation of Agentic LLM Pipelines for GitHub Actions Workflow Refactoring"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-github-actions-workflow-smells-refactoring
-excerpt: 'An agentic LLM-based approach for automatically detecting and refactoring workflow smells in GitHub Actions, currently under double-blind review.'
+excerpt: 'An empirical study of lightweight agentic LLM pipelines that both detect and refactor GitHub Actions configuration smells, comparing a joint detect-and-refactor agent against a decomposed detect-then-refactor pipeline. Currently under review.'
 date: 2026-06-01
-venue: 'Under Double-Blind Review'
-citation: 'Anderson Uchôa, Jhefferson Souza, Emanuel Ávila, Gabriel Silva, Kevin Lira, Nelson Araújo, Arthur Cordeiro, Hui Sun, Rohit Gheyi, and Wesley K. G. Assunção. &quot;Automated Detection and Refactoring of GitHub Actions Workflow Smells Using Agentic LLMs.&quot; [Under Double-Blind Review]'
+venue: 'International Conference on Software Engineering (ICSE 2027) — Under Review'
+citation: 'Anderson Uchôa, Jhefferson Souza, Emanuel Ávila, Gabriel Silva, Kevin Lira, Nelson Araújo, Arthur Cordeiro, Hui Sun, Rohit Gheyi, and Wesley K. G. Assunção. &quot;Beyond Smell Detection: Construct-Aware Evaluation of Agentic LLM Pipelines for GitHub Actions Workflow Refactoring.&quot; [Under Review at ICSE 2027]'
 ---
-This paper is currently under double-blind review.
+Existing approaches for GitHub Actions configuration smells are mostly rule-based and detection-oriented, leaving developers to interpret findings and write the repairs themselves. We report an empirical study of lightweight agentic LLM pipelines that support both target-smell detection and scope-bounded refactoring. Building on an existing catalog, we operationalize 19 smells with explicit detection criteria, refactoring expectations, exclusion rules, and construct-level safety checks, and compare two configurations: a joint detect-and-refactor agent and a decomposed detect-then-refactor pipeline. Both are instantiated with four LLMs and evaluated on 570 shared annotated (workflow, smell) pairs sampled from a manually curated ground truth of 1,710 pairs. Task decomposition yields modest, model-dependent detection gains (average F1 86.34% → 87.55%, recall 79.12% → 82.37%). End-to-end refactoring is limited mainly by missed detections: 78.2% of assessable positive outputs remove the target smell and 71.9% are clean removals, but conditioned on correct positive detection both rates rise sharply. Negative pairs reveal over-refactoring — 93 unnecessary edits, 54.84% of which touch behavior-relevant workflow constructs. Agentic LLM pipelines can produce useful candidate CI/CD maintenance patches, but practical use requires abstention checks, construct-aware validation, and cost-aware orchestration.

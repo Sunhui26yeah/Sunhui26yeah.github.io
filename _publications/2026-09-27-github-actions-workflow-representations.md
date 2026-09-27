@@ -1,0 +1,11 @@
+---
+title: "Same Workflow, Different Representation: Effects on LLM-Based GitHub Actions Smell Detection"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-github-actions-workflow-representations
+excerpt: 'An empirical study of whether the representation through which a GitHub Actions workflow is shown to an LLM — raw YAML, a Construct Tree, or a Semantic Graph — changes configuration-smell detection. Currently under review.'
+date: 2026-09-27
+venue: 'IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2027) — Under Review'
+citation: '&quot;Same Workflow, Different Representation: Effects on LLM-Based GitHub Actions Smell Detection.&quot; [Under Review at SANER 2027]'
+---
+LLMs analyze software artifacts through textual inputs, yet the representation of an artifact is usually treated as a preprocessing detail rather than as an experimental factor. We study this question for GitHub Actions configuration-smell detection. We operationalize 19 smells and build a manually validated ground truth of 1,710 balanced (workflow, smell) pairs. We introduce GHA2Rep, which derives two GitHub Actions-specific representations from the same parsed workflow: a Construct Tree that exposes workflow hierarchy and scope, and a Semantic Graph that exposes structural and semantic relations among workflow constructs. Comparing Raw YAML, both derived representations, and two hybrid conditions across five LLMs with three independent runs each, we find that representation effects are strongly model- and smell-dependent: the F1 range between input conditions spans 0.5 to 10.1 percentage points and no representation wins universally. The Semantic Graph attains the highest average F1 (79.2%), but every non-baseline representation increases computational cost, and richer inputs do not consistently improve effectiveness. Context-dependent smells are more representation-sensitive than localized ones (6.6 vs. 3.9 pp average F1 range), and similar aggregate effectiveness can hide substantially different sets of recovered and introduced errors, driven mainly by false-negative transitions. Representation should therefore be controlled, reported, and empirically validated alongside other experimental settings in LLM-based software analysis.
