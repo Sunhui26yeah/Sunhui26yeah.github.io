@@ -15,4 +15,9 @@ Research
 ======
 My current work focuses on evaluating and understanding the failure modes of large language models applied to software engineering tasks — including cross-language code functional equivalence, automated test code review, and agentic systems for ML infrastructure. I also have prior work on hardware-software co-design for differential privacy.
 
+Talks & Service
+======
+* Nov. 2026: Guest lecture, "Beyond Execution: Behavioral Pitfalls, Empirical Insights, and Industrial Deployment of Reliable Coding Agents", AIOps course, Polytechnique Montréal ([slides](https://drive.google.com/file/d/1EKl9a_LKeV4ZxX1C402EughRXGuEWzUo/view?usp=sharing))
+* Reviewer, SANER 2027
+
 Feel free to reach out at [hsun26@ncsu.edu](mailto:hsun26@ncsu.edu), or find me on [LinkedIn](https://www.linkedin.com/in/huisun2022/) and [Google Scholar](https://scholar.google.com/citations?user=Bto0WEoAAAAJ&hl=en&oi=ao). You can also find my full [CV here](/cv/).

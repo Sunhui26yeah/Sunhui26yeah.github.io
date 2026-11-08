@@ -61,6 +61,14 @@ Skills
 * Agent building, RAG, XLA, Java, Python, C++, R, Matlab, SQL, J2EE, ASP.NET, AI4SE, LLMs, LaTeX, Git
 * Frameworks & Libraries: Spring Boot, MyBatis, PyTorch, scikit-learn, Ollama, Pandas, HuggingFace
 
+Talks
+======
+* Nov. 2026: Guest lecture, "Beyond Execution: Behavioral Pitfalls, Empirical Insights, and Industrial Deployment of Reliable Coding Agents", AIOps course, Polytechnique Montréal ([slides](https://drive.google.com/file/d/1EKl9a_LKeV4ZxX1C402EughRXGuEWzUo/view?usp=sharing))
+
+Service
+======
+* Reviewer, SANER 2027
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
