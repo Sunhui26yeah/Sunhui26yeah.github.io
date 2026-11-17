@@ -64,7 +64,7 @@ Skills
 Talks
 ======
 * Nov. 2026: Guest lecture, "Beyond Execution: Behavioral Pitfalls, Empirical Insights, and Industrial Deployment of Reliable Coding Agents", AIOps course, Polytechnique Montréal ([slides](https://drive.google.com/file/d/1EKl9a_LKeV4ZxX1C402EughRXGuEWzUo/view?usp=sharing))
-* Oct. 2026: Conference talk, "Evaluating Language Models on Cross-Language Code Functional Equivalence", ESEM 2026 ([slides](https://docs.google.com/presentation/d/1qebwRhV_KcF4l2CenG-ERHU4YiKQxGtvKSB94zDd8sk/edit?usp=sharing))
+* Oct. 2026: Conference talk, "Evaluating Language Models on Cross-Language Code Functional Equivalence", ESEM 2026 ([slides](https://drive.google.com/file/d/1KNtEMP91WHhpD737GMlsnsGAI6dgVjYk/view?usp=share_link))
 
 Service
 ======
