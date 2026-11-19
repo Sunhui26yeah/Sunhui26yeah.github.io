@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, North Carolina State University, Aug. 2023 - Present
-  * Dissertation: *Beyond Execution: Judging Equivalence in Automated Code Migration*
+  * Dissertation: *Judging Equivalence in AI-Driven Code Migration*
   * Advisor: Dr. Wesley K. G. Assunção
   * Research Interests: LLMs, Software Engineering, HCI, AI4AI, AI4SE, Agents
 * M.S. in Computer Science, University of Florida, Aug. 2020 - Dec. 2022
