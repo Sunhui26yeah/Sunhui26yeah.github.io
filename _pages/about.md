@@ -13,6 +13,8 @@ Before NC State, I earned my M.S. in Computer Science at the [University of Flor
 
 Research
 ======
+My dissertation is titled ***Beyond Execution: Judging Equivalence in Automated Code Migration***.
+
 My current work focuses on evaluating and understanding the failure modes of large language models applied to software engineering tasks — including cross-language code functional equivalence, automated test code review, and agentic systems for ML infrastructure. I also have prior work on hardware-software co-design for differential privacy.
 
 Talks & Service
