@@ -68,7 +68,7 @@ Talks
 
 Service
 ======
-* Reviewer, SANER 2027
+* Sub-reviewer, SANER 2027
 
 Publications
 ======

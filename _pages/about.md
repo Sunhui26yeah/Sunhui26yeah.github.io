@@ -21,6 +21,6 @@ Talks & Service
 ======
 * Nov. 2026: Guest lecture, "Beyond Execution: Behavioral Pitfalls, Empirical Insights, and Industrial Deployment of Reliable Coding Agents", AIOps course, Polytechnique Montréal ([slides](https://drive.google.com/file/d/1EKl9a_LKeV4ZxX1C402EughRXGuEWzUo/view?usp=sharing))
 * Oct. 2026: Conference talk, "Evaluating Language Models on Cross-Language Code Functional Equivalence", ESEM 2026 ([slides](https://drive.google.com/file/d/1KNtEMP91WHhpD737GMlsnsGAI6dgVjYk/view?usp=share_link))
-* Reviewer, SANER 2027
+* Sub-reviewer, SANER 2027
 
 Feel free to reach out at [hsun26@ncsu.edu](mailto:hsun26@ncsu.edu), or find me on [LinkedIn](https://www.linkedin.com/in/huisun2022/) and [Google Scholar](https://scholar.google.com/citations?user=Bto0WEoAAAAJ&hl=en&oi=ao).
